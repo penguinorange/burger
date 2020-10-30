@@ -1,0 +1,24 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Track all the burgers you make!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penguinorange/burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penguinorange/burger/issues"
+  },
+  "homepage": "https://github.com/penguinorange/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
