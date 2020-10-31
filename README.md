@@ -14,20 +14,6 @@ https://github.com/penguinorange/burger
 
 ==========================================
 
-# Node Express Handlebars
-
-### Overview
-
-In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
-
-### Read This
-
-When trying to connect remotely to your Heroku database on an open network such as a coffee shop, library, or even your University WiFi, it will be blocked. If you are experiencing a Heroku connection error, this could be why.
-
-### Important
-
-* **This assignment must be deployed.** Be sure to utilize the [MYSQL Heroku Deployment Guide](../../03-Supplemental/MySQLHerokuDeploymentProcess.pdf) in order to deploy your assignment.
-
 ### Before You Begin
 
 * Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
@@ -41,28 +27,7 @@ When trying to connect remotely to your Heroku database on an open network such 
 * [Check out this video of the app for a run-through of how it works](https://youtu.be/msvdn95x9OM).
 
 
-### Submission on BCS
-
-* **This assignment must be deployed.** * Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
-
 ## Instructions
-
-#### App Setup
-
-1. Create a GitHub repo called `burger` and clone it to your computer.
-
-2. Make a package.json file by running `npm init` from the command line.
-
-3. Install the Express npm package: `npm install express`.
-
-4. Create a server.js file.
-
-5. Install the Handlebars npm package: `npm install express-handlebars`.
-
-6. Install MySQL npm package: `npm install mysql`.
-
-7. Require the following npm packages inside of the server.js file:
-   * express
 
 #### DB Setup
 
